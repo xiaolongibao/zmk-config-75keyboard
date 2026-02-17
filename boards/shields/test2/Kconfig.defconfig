@@ -1,0 +1,7 @@
+if SHIELD_TEST2
+
+# Name must be less than 16 characters long!
+config ZMK_KEYBOARD_NAME
+    default "test2"
+
+endif
