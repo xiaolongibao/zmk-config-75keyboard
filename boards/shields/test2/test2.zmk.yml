@@ -1,0 +1,6 @@
+file_format: "1"
+id: test2
+name: test2
+type: shield
+url: https://github.com/xiaolongibao/zmk-config-75keyboard
+requires: [nice_nano_v2]
